@@ -7,3 +7,12 @@
 
 "Vision":
   color: "#009f36"
+
+"IEEE Access":
+  url: https://ieeeaccess.ieee.org/
+  color: "#00369f"
+
+"Acta med. Indones.":
+  url: https://actamedindones.org/index.php/ijim
+  color: "#009f36"
+
