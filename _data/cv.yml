@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Mgs M Luthfi Ramadhan
+      value: Albert Einstein
     - name: Date of Birth
-      value: 20th December 1998
+      value: 14th March 1879
     - name: Languages
-      value: English, Bahasa Indonesia
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Master
-      institution: Universitas Indonesia, Depok, Indonesia
-      year: 2022
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Universitas Sriwijaya, Palembang, Indonesia
-      year: 2020
-      description:
-        - Description 1.
-        - Description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
