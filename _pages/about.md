@@ -20,7 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Mgs M Luthfi Ramadhan, a dedicated practitioner in machine learning and deep learning with a strong passion for innovation in artificial intelligence (AI). With over four years of experience in designing, implementing, and optimizing advanced AI systems, I specialize in pattern recognition, computer vision, and the development of cutting-edge algorithms. My career is driven by the vision of leveraging technology to solve real-world problems, particularly in healthcare and remote sensing applications.
 
-test 
 # Professional Journey
 Currently, I am a Researcher at Universitas Indonesia, where I contribute to groundbreaking projects in the Intelligent Robots and Systems (IRoS) laboratory. My work includes developing deep learning models like CNNs, LSTMs, Siamese networks, and Vision Transformers, and achieving significant outcomes in medical imaging and LiDAR data analysis. I am also a Lecturer Assistant, guiding students in advanced machine learning and research methodology, fostering their growth through constructive feedback on innovative projects.
 
