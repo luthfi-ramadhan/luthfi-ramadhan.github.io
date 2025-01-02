@@ -87,9 +87,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: luthfi-ramadhan # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: Mgs M Luthfi Ramadhan # blog_name will be displayed in your blog page
+blog_description:
+permalink: /articles/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -255,12 +255,12 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+    year: "/articles/:year/"
+    tag: "/articles/tag/:name/"
+    category: "/articles/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["Mathematics", "Deep Learning", "Machine Learning", "Neural Network", "Philosophy", "Data Science"] # these tags will be displayed on the front page of your blog
+display_categories: ["external-link"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
