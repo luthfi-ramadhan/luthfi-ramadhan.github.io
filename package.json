@@ -3,4 +3,16 @@
     "@shopify/prettier-plugin-liquid": "1.4.0",
     "prettier": "3.1.1"
   }
+
 }
+"checkFiles": [
+  "src/**/*.js*",
+  "src/**/*.ts*",
+  "src/**/*.less",
+  "config/**/*.js*",
+  "scripts/**/*.js"
+],
+"scripts": {
+    "lint-prettier": "check-prettier"
+},
+
