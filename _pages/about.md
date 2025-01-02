@@ -2,15 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Faculty of Computer Science, University of Indonesia</a>. Depok City 16424, Indonesia. Contacts. Motto. Etc.
+subtitle: <a href='#'>Faculty of Computer Science, University of Indonesia</a>. Depok City 16424, Indonesia.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: mlr_.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
     <p>Depok City 16424, Indonesia.</p>
 
 news: false # includes a list of news items
