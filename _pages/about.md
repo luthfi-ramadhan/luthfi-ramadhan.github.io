@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Faculty of Computer Science, University of Indonesia</a>. Depok City 16424, Indonesia. Contacts. Motto. Etc.
 
@@ -18,20 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Mgs M Luthfi Ramadhan, a dedicated practitioner in machine learning and deep learning with a strong passion for innovation in artificial intelligence (AI). With over four years of experience in designing, implementing, and optimizing advanced AI systems, I specialize in pattern recognition, computer vision, and the development of cutting-edge algorithms. My career is driven by the vision of leveraging technology to solve real-world problems, particularly in healthcare and remote sensing applications.
+<!-- Mgs M Luthfi Ramadhan, a dedicated researcher in machine learning and deep learning with a strong passion for innovation in artificial intelligence (AI). With over four years of experience in designing, implementing, and optimizing advanced AI systems, I specialize in pattern recognition, computer vision, and the development of cutting-edge algorithms. -->
 
-# Professional Journey
-Currently, I am a Researcher at Universitas Indonesia, where I contribute to groundbreaking projects in the Intelligent Robots and Systems (IRoS) laboratory. My work includes developing deep learning models like CNNs, LSTMs, Siamese networks, and Vision Transformers, and achieving significant outcomes in medical imaging and LiDAR data analysis. I am also a Lecturer Assistant, guiding students in advanced machine learning and research methodology, fostering their growth through constructive feedback on innovative projects.
+I am a dedicated researcher in machine learning and deep learning with over four years of experience. I specialize in pattern recognition, computer vision, and the development of cutting-edge algorithms. 
 
-Previously, I interned at PT. Pelabuhan Indonesia II, where I developed a Java-based application to monitor docked ships, demonstrating my adaptability to diverse industry challenges. My time at Medium allowed me to simplify complex AI concepts for a global audience, authoring 14 articles to make data science accessible to beginners.
+Currently, I am a Researcher at Universitas Indonesia, where I contribute to groundbreaking projects in the Intelligent Robots and Systems (IRoS) laboratory. My work includes developing deep learning models like CNNs, LSTMs, Siamese networks, and Vision Transformers, and achieving significant outcomes in medical imaging and remote sensing fields. I am also a Lecturer Assistant, guiding students in advanced machine learning and research methodology.
 
-# Academic and Technical Foundation
-I hold a Master's degree in Computer Science from Universitas Indonesia (UI), graduating with a GPA of 3.80. I received my Bachelor's degree from Universitas Sriwijaya (UNSRI) and an exchange program at Universiti Teknologi Malaysia (UTM).
+<!-- # Academic and Technical Foundation -->
+I hold a Master's degree in Computer Science from Universitas Indonesia (UI), graduating with a GPA of 3.80. I received my Bachelor's degree from Universitas Sriwijaya (UNSRI) and an exchange program at Universiti Teknologi Malaysia (UTM). As a researcher, I primarily work with Python and its libraries like TensorFlow, OpenCV, and Scikit-learn.
 
-As a researcher, I primarily work with Python and its libraries like TensorFlow, OpenCV, and Scikit-learn. My technical portfolio includes creating Python-based libraries for machine learning algorithms, enhancing accessibility for peers and fostering collaboration.
-
-# Research and Publications
-My research contributions include authoring articles in esteemed journals such as IEEE Access and Jurnal Ilmu Komputer dan Informasi. Topics of focus range from heart failure detection via time-distributed vision transformers to advanced methodologies for building damage assessment and change detection in remote sensing. My work bridges theoretical insights with practical applications, demonstrating my commitment to advancing the AI domain.
+<!-- # Research and Publications -->
+My research contributions include authoring several research articles in esteemed journals such as IEEE Access and Actamedica Indonesiana. Topics of focus range from biomedical and remote sensing.
 
 <!-- # Passions and Future Aspirations
 Beyond my professional commitments, I am the Chief Editor of Intuition, a Medium-based publication that empowers writers in the scientific community. My passion lies in demystifying complex technologies and encouraging knowledge sharing.
