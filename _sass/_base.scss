@@ -593,7 +593,9 @@ footer.sticky-bottom {
     list-style: none;
     padding-top: 2rem;
     padding-bottom: 2rem;
-
+    img {
+        width: 50% !important;
+    }
     .post-meta {
       color: var(--global-text-color-light);
       font-size: 0.875rem;
